@@ -1,0 +1,36 @@
+.menu{
+    background-image: url("suzie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #111;
+}
+
+h4.pagetitle{
+    font-size: 20px;
+} 
+p.comment{
+    font: size 30px;
+    font-style:normal;
+    color:royalblue;
+}
+
+h4.textone{
+  color: blue;
+  font-weight:bolder;
+  font-family: 'Times New Roman';
+}
+h2.title{
+    color: cornflowerblue;
+    font-family: Arial;
+}
+.new{
+    color:darkblue;
+
+}
+.command{
+    color: red;
+}
+p.content{
+    font-family: Verdana;
+    color:rgba(rgb(245, 10, 139,40%);
+}
